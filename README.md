@@ -1,4 +1,6 @@
 # australian-tax-rate
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/australian-tax-rate.svg)](https://greenkeeper.io/)
 return tax rate based on annual income
 
 ## usage:
